@@ -22,7 +22,7 @@ export const personalInfo = {
       speciality: `Full-Stack Web Developement`,
       city: "Bangalore",
       year: {
-        start: "May 2021 ",
+        start: "Oct 2021 ",
         end: "Present",
       },
     },
