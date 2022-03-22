@@ -61,7 +61,7 @@ const MobileProfile = ({
       ref: aboutRef,
     },
     {
-      text: "Resume",
+      text: "Skills",
       icon: <SchoolIcon />,
       color: "secondary",
       path: "/resume",
